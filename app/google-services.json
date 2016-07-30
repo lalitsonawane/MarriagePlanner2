@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "702233980533",
+    "firebase_url": "https://marriageplanner2.firebaseio.com",
+    "project_id": "marriageplanner2",
+    "storage_bucket": "marriageplanner2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702233980533:android:025279079f4ff6a1",
+        "android_client_info": {
+          "package_name": "com.lalitsonawane.admin.marriageplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702233980533-hhjr02525spiv6uetvvlri9kq6mhig6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lalitsonawane.admin.marriageplanner",
+            "certificate_hash": "F41535A8E7F526923AA2DC37168CCC16ED3323BF"
+          }
+        },
+        {
+          "client_id": "702233980533-e3g6pgn1u6e11ckaeo3d4hfi5jdc42o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGD7uBdyt81WxfZDcyUYVr7mFNcA7Jr_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702233980533-e3g6pgn1u6e11ckaeo3d4hfi5jdc42o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
